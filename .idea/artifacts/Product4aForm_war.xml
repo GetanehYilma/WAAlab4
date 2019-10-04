@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Product4aForm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Product4aForm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Product4aForm-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Product4aForm:war exploded" />
+    </root>
+  </artifact>
+</component>
